@@ -38,19 +38,6 @@ I ship end-to-end. From a cold terminal at 2 AM to a polished cross-platform app
 
 ---
 
-## 📊 GitHub Stats in Motion
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KavimugilRajasekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavimugilRajasekar&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" alt="Streak Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavimugilRajasekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="500"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
