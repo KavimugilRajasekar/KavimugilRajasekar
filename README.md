@@ -13,16 +13,16 @@
   <img src="https://kavimugilrajasekar.github.io/favicon.ico" alt="Portfolio" height="20"/>
 </a>
 <a href="mailto:kavimugil28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white" alt="Email" height="20"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" alt="Email" height="20"/>
 </a>
 <a href="https://www.linkedin.com/in/kavimugil-rajasekar-7273042a2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="20" width="20"/>
 </a>
 <a href="https://github.com/KavimugilRajasekar">
-  <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=181717&labelColor=white" alt="GitHub" height="20"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Font_Awesome_5_brands_github-square.svg/960px-Font_Awesome_5_brands_github-square.svg.png" alt="GitHub" height="20"/>
 </a>
 <a href="https://pypi.org/project/rouint/">
-  <img src="https://img.shields.io/badge/rouint-white?style=flat&logo=pypi&logoColor=3775A9&labelColor=white" alt="PyPI" height="20"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/120px-PyPI-Logo-notext.svg.png" alt="PyPI" height="20"/>
 </a>
 
 A highly motivated CS undergrad at **Government College of Technology, Coimbatore**, passionate about crafting software that doesn't just work — it **delights**. My playground is **Flutter**, my canvas is **full-stack systems**, and my latest obsession is **AI tooling**.
