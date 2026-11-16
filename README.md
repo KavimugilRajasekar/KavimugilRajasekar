@@ -1,9 +1,8 @@
-
 <table>
 <tr>
 <td width="28%" valign="middle">
 
-<img src="https://kavimugilrajasekar.github.io/assets/images/profile.jpg" alt="Profile !! pls Reload It .." width="220"/>
+<img src="https://kavimugilrajasekar.github.io/assets/images/profile.jpg" alt=" Profile !! Plz Reload It .. " width="220"/>
 
 </td>
 <td width="72%" valign="middle">
