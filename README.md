@@ -9,8 +9,6 @@
 
 # Hey there, I'm **Kavimugil Rajasekar**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Computer+Science+Engineer;Flutter+%7C+Full-Stack+%7C+AI+Tooling;Building+innovative+solutions+to+real-world+problems" alt="Typing SVG" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-kavimugilrajasekar.github.io-blue?style=flat&logo=githubpages&logoColor=blue&labelColor=white&color=white)](https://kavimugilrajasekar.github.io)
 [![Email](https://img.shields.io/badge/kavimugil28@gmail.com-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white&color=white)](mailto:kavimugil28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/kavimugil--rajasekar-white?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=white&color=white)](https://www.linkedin.com/in/kavimugil-rajasekar-7273042a2)
