@@ -9,7 +9,11 @@
 
 # Hey there, I'm **Kavimugil Rajasekar**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kavimugilrajasekar.github.io-blue?style=flat&logo=githubpages&logoColor=blue&labelColor=white&color=white)](https://kavimugilrajasekar.github.io)
+<a href="https://kavimugilrajasekar.github.io">
+  <img src="https://kavimugilrajasekar.github.io/favicon.ico"
+       alt="Portfolio"
+       height="20"/>
+</a>
 [![Email](https://img.shields.io/badge/kavimugil28@gmail.com-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white&color=white)](mailto:kavimugil28@gmail.com)
 <a href="https://www.linkedin.com/in/kavimugil-rajasekar-7273042a2">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210220164014"
