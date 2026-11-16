@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kavimugilrajasekar.github.io-blue?style=flat&logo=githubpages&logoColor=blue&labelColor=white&color=white)](https://kavimugilrajasekar.github.io)
 [![Email](https://img.shields.io/badge/kavimugil28@gmail.com-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white&color=white)](mailto:kavimugil28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=white)](https://www.linkedin.com/in/kavimugil-rajasekar-7273042a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavimugil-rajasekar-7273042a2)
 [![GitHub](https://img.shields.io/badge/KavimugilRajasekar-white?style=flat&logo=github&logoColor=181717&labelColor=white&color=white)](https://github.com/KavimugilRajasekar)
 [![PyPI](https://img.shields.io/badge/rouint-white?style=flat&logo=pypi&logoColor=3775A9&labelColor=white&color=white)](https://pypi.org/project/rouint/)
 
