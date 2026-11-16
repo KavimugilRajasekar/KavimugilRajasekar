@@ -2,7 +2,7 @@
 <tr>
 <td width="28%" valign="top">
 
-<img src="https://KavimugilRajasekar.github.io/assets/images/profile.jpg" alt="Kavimugil Rajasekar" width="220"/>
+<img src="https://kavimugilrajasekar.github.io/assets/images/profile.jpg" alt="Kavimugil Rajasekar" width="220"/>
 
 </td>
 <td width="72%" valign="top">
