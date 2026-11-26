@@ -22,7 +22,7 @@
 <a href="mailto:kavimugil28@gmail.com"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" alt="Email" height="20" style="vertical-align: middle;"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kavimugil-rajasekar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/kavimugil-r"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hf-logo-without-title.svg/500px-Hf-logo-without-title.svg.png" alt="Hugging Face" height="20" style="vertical-align: middle;"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://ollama.com/kavimugil-r"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ollama-logo.svg/40px-Ollama-logo.svg.png" alt="Ollama" height="20" style="vertical-align: middle;"/></a>
+<a href="https://ollama.com/kavimugil-r"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ollama-logo.svg/250px-Ollama-logo.svg.png" alt="Ollama" height="20" style="vertical-align: middle;"/></a>
 
 A highly motivated CS undergrad at **Government College of Technology, Coimbatore**, passionate about crafting software that doesn't just work — it **delights**. My playground is **Flutter**, my canvas is **full-stack systems**, and my latest obsession is **AI tooling**.
 
